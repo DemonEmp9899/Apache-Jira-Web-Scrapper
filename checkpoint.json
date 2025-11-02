@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "KAFKA": 18585,
+    "SPARK": 50,
+    "BEAM": 14551,
+    "HARMONY": 6676,
+    "TEST": 2
+  }
+}
